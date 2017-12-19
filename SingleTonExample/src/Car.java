@@ -1,4 +1,6 @@
 public class Car {
+	
+	//This is a sample demo example
 	static Car c=null;
 	String name;	
 	private Car(){
